@@ -17,11 +17,4 @@ I am a data analyst and R programmer. My passion for R sparked after I took a pr
 
 I'm currently looking for a new opportunity as an R programmer as a new challenge and to work with other data scientists.
 
-Skills:
-+ R (dplyr, data.table, sf, janitor, purrr, kableExtra)
-+ Dashboards, web apps, and data visualizations (Shiny, Quarto, flexdashboard, leaflet, plotly, ggplot2, pool, golem)
-+ SQL databases (RSQLite and duckdb R packages)
-+ CSS, HTML
-+ Docker, Git
-
-- ⚡ Fun fact: I bought an empty cargo van, did the van build over a fun two months, now I love to travel and camp in it
+⚡ Fun fact: I bought an empty cargo van, did the van build over a fun two months, now I love to travel and camp in it
