@@ -15,6 +15,6 @@
 
 I am a data analyst and R programmer. My passion for R sparked after I took a programming class a few years ago and immediately applied what I learned to my job. Since then, I've learned more advanced R such as building an R package and developing Shiny web apps. I like to look for ways to streamline manual tasks and to translate data into a concise and meaningful visual for the general public in either a dashboard or report format.
 
-I'm currently looking for a new opportunity as an R programmer as a new challenge and to work with other data scientists.
+I'm currently looking for a new opportunity as an R programmer. I'd love a new challenge and the opportunity to work with other data scientists.
 
 ⚡ Fun fact: I bought an empty cargo van, did the van build over a fun two months, now I love to travel and camp in it
