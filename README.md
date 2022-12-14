@@ -17,4 +17,4 @@ I am a data analyst and R programmer. My passion for R sparked after I took a pr
 
 I'm currently looking for a new opportunity as an R programmer. I'd love a new challenge and the opportunity to work with other data scientists.
 
-⚡ Fun fact: I bought an empty cargo van, did the van build over a fun two months, now I love to travel and camp in it
+⚡ Fun fact: I bought an empty cargo van, completed the van build over a fun two months, now I love to travel and camp in it
