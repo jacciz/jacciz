@@ -15,6 +15,4 @@
 
 I am a data analyst and R programmer. Wanting to improve my workflow at my job from SAS/Excel to data science, I took a programming class and immediately applied what I learned to my job. That's when my passion for R sparked. Since then, I've learned more advanced R such as building an R package and developing Shiny dashboards. I'm always striving to increase my skill set. I like to look for ways to automate manual tasks and to translate data into a concise and meaningful visual for the general public in either a dashboard or report format.
 
-I'm currently looking for a new opportunity in data science. I'd love a new challenge and the opportunity to work with other data scientists.
-
 ⚡ Fun fact: I bought an empty cargo van, completed the van build over a fun two months, now I love to travel and camp in it
